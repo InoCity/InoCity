@@ -4,3 +4,5 @@
  
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=InoCity&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InoCity&layout=compact&langs_count=7&theme=outrun"/>
+
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/InoCity/InoCity/main/emoji.gif" />
