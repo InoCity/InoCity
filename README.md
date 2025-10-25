@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=InoCity&color=blueviolet&style=flat-square)  
 ![Status](https://img.shields.io/badge/status-active-success?style=flat-square)
-![OS](https://img.shields.io/badge/OS-Windows-0078D6?logo=windows&style=flat-square)
+![OS](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows) ![OS](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
 
 🎯 Focused on performance, system tweaking and low-level development.  
 🇧🇷 A little developer from Brazil.  
