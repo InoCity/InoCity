@@ -3,7 +3,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&size=50&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=👋+Hello%2C+i+am+InoCity!)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=InoCity&color=blueviolet&style=flat-square)  
-![Status](https://img.shields.io/badge/status-active-success?style=flat-square)
+![Status](https://img.shields.io/badge/status-unknown-blue?style=flat-square)
 ![OS](https://img.shields.io/badge/OS-Linux-FCC624?logo=linux&style=flat-square)
 
 🎯 Focused on performance, system tweaking and low-level development.  
