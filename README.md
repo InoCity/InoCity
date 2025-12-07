@@ -1,48 +1,66 @@
 <div align="center">
 
-# 👋 Hey, I'm InoCity  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&size=42&duration=2600&pause=900&color=9F6BFF&center=true&vCenter=true&width=550&lines=System+Tweaker;Performance+Enthusiast;Open-Source+Lover)](https://git.io/typing-svg)
+<img src="https://img.shields.io/badge/InoCity-%20?style=for-the-badge&color=7C4DFF&labelColor=EDE7F6&logo=materialdesign&logoColor=7C4DFF" height="55">
 
-<img src="https://komarev.com/ghpvc/?username=InoCity&color=9F6BFF&style=flat-square"/>
+### **Modern • Clean • Material You Style**
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🌈 Sobre mim
 
-🔧 Focused on performance tuning, system internals and Android low–level tweaks  
-🇧🇷 Developer from Brazil  
-⚡ Always optimizing, testing, breaking, fixing — and learning
+<div style="border-radius: 16px; padding: 18px; background: #F3EDF7;">
+  
+🔧 Focado em desempenho, otimizações e ajustes avançados no Android  
+🚀 Curto mexer no sistema, testar limites e criar soluções práticas  
+🇧🇷 Desenvolvedor curioso e sempre aprendendo  
+
+</div>
 
 ---
 
-## 📬 Contact
+## 📂 Projetos
+
+<div style="border-radius: 16px; padding: 18px; background: #E8DEF8;">
+
+- 🔩 Módulos **Magisk** focados em performance  
+- ⚙️ Scripts e automações para Android  
+- 📱 Ajustes de UX, RAM e estabilidade  
+- 🧪 Testes com kernels, DMA, JIT/ART e afins  
+
+</div>
+
+---
+
+## 🧰 Ferramentas
+
+<div align="center">
+  
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&labelColor=E8F5E9&logo=android&logoColor=3DDC84">
+<img src="https://img.shields.io/badge/Shell-89E051?style=for-the-badge&labelColor=F1F8E9&logo=gnu-bash&logoColor=89E051">
+<img src="https://img.shields.io/badge/Magisk-00AF9C?style=for-the-badge&labelColor=E0F2F1&logo=android&logoColor=00AF9C">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&labelColor=FFFDE7&logo=linux&logoColor=000">
+  
+</div>
+
+---
+
+## 📬 Contato
+
+<div style="border-radius: 16px; padding: 18px; background: #F3EDF7;">
 
 - Telegram: **[@InoCity](https://t.me/InoCity)**  
 - Discord: **@inocity**
 
----
-
-## 🔥 Projects
-
-- 🔩 Magisk modules for performance & stability  
-- ⚙️ Custom Android system tweaks  
-- 📜 Shell scripts and automation  
-- 🧪 Experiments with kernels, RAM tuning and UX smoothness
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## ✨ Frase
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Magisk](https://img.shields.io/badge/Magisk-00AF9C?style=for-the-badge&logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<div align="center" style="border-radius: 16px; padding: 22px; background: #E8DEF8;">
+  
+**“Otimizar é transformar o sistema na sua melhor versão.”**
 
----
-
-## 💬 Quote
-
-> “Optimize the system. Improve the experience. Repeat.”
-
+</div>
