@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9F6BFF,00C9FF&height=220&section=header&text=InoCity&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Android%20System%20Tweaker&descAlign=50&descAlignY=55" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=a3565d&center=true&vCenter=true&width=435&lines=Performance+Overclocked;Magisk+Module+Developer;Shell+Script+Wizard" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=a3565d&center=true&vCenter=true&width=435&lines=Performance+Tuner;APatch+Module+Developer;Shell+Script+Wizard" />
 
 ---
 
